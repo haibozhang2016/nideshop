@@ -1,0 +1,3 @@
+NideShop 商城 api 服务端：https://github.com/tumobi/nideshop
+NideShop 微信小程序客户端： https://github.com/tumobi/nideshop-mini-program
+NideShop 后台管理客户端： https://github.com/tumobi/nideshop-admin
